@@ -8,7 +8,7 @@
 
 ### Integration
 
-Check the documentation [here](http://miromannino.github.io/Justified-Gallery) for Justified Galler and [here](http://brutaldesign.github.io/swipebox) for Swipebox.
+Please check the documentation [here](http://miromannino.github.io/Justified-Gallery) for Justified Gallery and [here](http://brutaldesign.github.io/swipebox) for Swipebox.
 
 ### Gallery Assets
 
@@ -16,7 +16,7 @@ The gallery images can be served from **/public/** or **/upload/** folders.
 
 ### Sample App
 
-Check the justified-gallery-html-js project from **examples/justified-gallery-html-js** folder.
+Check the [justified-gallery-html-js](https://github.com/anbuselvan/justified-gallery/tree/master/examples/justified-gallery-html-js) project from **examples/justified-gallery-html-js** folder.
 
 ### Quick preview
 
