@@ -18,6 +18,10 @@ The gallery images can be served from **/public/** or **/upload/** folders.
 
 Check the justified-gallery-html-js project from **examples/justified-gallery-html-js** folder.
 
+### Quick preview
+
+![Screen Capture](https://raw.githubusercontent.com/anbuselvan/justified-gallery/master/screenshot/justified-gallery.png)
+
 ### See it in action
 
 [Meteor - Justified Gallery](http://justified-gallery.meteor.com)
