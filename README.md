@@ -20,7 +20,7 @@ Check the justified-gallery-html-js project from **examples/justified-gallery-ht
 
 ### Quick preview
 
-![Screen Capture](https://raw.githubusercontent.com/anbuselvan/justified-gallery/master/screenshot/justified-gallery.png)
+![Screen Capture](https://raw.githubusercontent.com/anbuselvan/justified-gallery/master/screenshot/justified-gallery.jpg)
 
 ### See it in action
 
