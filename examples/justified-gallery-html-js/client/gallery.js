@@ -1,9 +1,3 @@
-Template.gallery.helpers({
-  categories: function() {
-    return Categories.find();
-  }
-});
-
 Template.gallery_items.rendered = function() {
   var self = this;
   self.swipeBoxReady = new ReactiveVar(false);

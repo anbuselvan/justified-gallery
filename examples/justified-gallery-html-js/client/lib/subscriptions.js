@@ -1,2 +1,4 @@
-Meteor.subscribe('categories'),
-Meteor.subscribe('gallery_images')
+Deps.autorun(function() {
+  Meteor.subscribe('categories'),
+  Meteor.subscribe('gallery_images')
+});
