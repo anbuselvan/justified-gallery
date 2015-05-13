@@ -16,7 +16,7 @@ The gallery images can be served from **/public/** or **/upload/** folders.
 
 ### Sample Apps
 
-Please check out the [justified-gallery-html-js](https://github.com/anbuselvan/justified-gallery/tree/master/examples/justified-gallery-html-js) and [justified-gallery-jade-coffee](https://github.com/anbuselvan/justified-gallery/tree/master/examples/justified-gallery-jade-coffee) projects inside the **examples/** folder.
+Please check out the [justified-gallery-html-js](https://github.com/anbuselvan/justified-gallery/tree/master/examples/justified-gallery-html-js) and [justified-gallery-jade-coffee](https://github.com/anbuselvan/justified-gallery/tree/master/examples/justified-gallery-jade-coffee) projects inside the [examples](https://github.com/anbuselvan/justified-gallery/tree/master/examples) folder.
 
 ### Quick preview
 
