@@ -1,11 +1,13 @@
 Package.describe({
   name: 'anbuselvan:justified-gallery',
   summary: 'Another awesome gallery for Meteor.',
-  version: '0.0.2',
-  git: 'https://github.com/anbuselvan/justified-gallery.git'
+  version: '0.0.3',
+  git: 'https://github.com/anbuselvan/justified-gallery.git',
+  documentation: 'README.md'
 });
 
 Package.onUse(function (api) {
+  api.versionsFrom('1.1.0.2');
   api.use(['jquery'], 'client');
 
   api.addFiles([
