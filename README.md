@@ -8,7 +8,7 @@
 
 ### Integration
 
-Please check the documentation [here](http://miromannino.github.io/Justified-Gallery) for Justified Gallery and [here](http://brutaldesign.github.io/swipebox) for Swipebox.
+Please check the documentation [here](http://miromannino.github.io/Justified-Gallery) for Justified Gallery (v3.5.4) and [here](http://brutaldesign.github.io/swipebox) for Swipebox (v1.2.1).
 
 ### Gallery Assets
 
