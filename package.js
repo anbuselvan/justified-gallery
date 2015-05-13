@@ -1,7 +1,7 @@
 Package.describe({
   name: 'anbuselvan:justified-gallery',
   summary: 'Another awesome gallery with swipebox for Meteor.',
-  version: '0.0.8',
+  version: '0.0.9',
   git: 'https://github.com/anbuselvan/justified-gallery.git',
   documentation: 'README.md'
 });

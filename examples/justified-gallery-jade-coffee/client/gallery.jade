@@ -1,0 +1,8 @@
+template(name='gallery')
+  .container
+    br
+    .panel.panel-default
+      .panel-heading Justified Gallery Demo
+      .panel-body
+        each this
+          +gallery_items category=this

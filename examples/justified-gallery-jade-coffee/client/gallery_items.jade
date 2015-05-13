@@ -1,0 +1,9 @@
+template(name='gallery_items')
+  if count
+    h4 #{category.name} (#{count})
+    div(class='jGallery-#{category._id}')
+      each images
+        a(href='#{image_original}', title='#{name}')
+          img(alt='#{name}', src='#{image_small}')
+      else
+        h6 No images found.

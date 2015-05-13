@@ -14,9 +14,9 @@ Please check the documentation [here](http://miromannino.github.io/Justified-Gal
 
 The gallery images can be served from **/public/** or **/upload/** folders.
 
-### Sample App
+### Sample Apps
 
-Check the [justified-gallery-html-js](https://github.com/anbuselvan/justified-gallery/tree/master/examples/justified-gallery-html-js) project from **examples/justified-gallery-html-js** folder.
+Please check out the [justified-gallery-html-js](https://github.com/anbuselvan/justified-gallery/tree/master/examples/justified-gallery-html-js) and [justified-gallery-jade-coffee](https://github.com/anbuselvan/justified-gallery/tree/master/examples/justified-gallery-jade-coffee) projects inside the **examples/** folder.
 
 ### Quick preview
 
