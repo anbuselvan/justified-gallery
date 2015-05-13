@@ -1,0 +1,28 @@
+<template name="gallery">
+  <div class="container">
+    <br>
+    <div class="panel panel-default">
+      <div class="panel-heading">Justified Gallery Demo</div>
+      <div class="panel-body">
+        {{#each categories}}
+          {{> gallery_items category=this}}
+        {{/each}}
+      </div>
+    </div>
+  </div>
+</template>
+
+<template name="gallery_items">
+  {{#if count}}
+  <h4>{{category.name}} ({{count}})</h4>
+  <div class="jGallery-{{category._id}}">
+    {{#each images}}
+      <a href="{{image_original}}" title="{{name}}">
+        <img alt="{{name}}" src="{{image_small}}"/>
+      </a>
+    {{else}}
+      <h6>No images found.</h6>
+    {{/each}}
+  </div>
+  {{/if}}
+</template>

@@ -1,0 +1,3 @@
+[submodule "vendor/Justified-Gallery"]
+	path = vendor/Justified-Gallery
+	url = https://github.com/miromannino/Justified-Gallery.git
